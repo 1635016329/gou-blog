@@ -12,7 +12,7 @@ spring:
   elasticsearch:
     uris: http://localhost:9200
 swagger:
-  enable: true
+  enable: false
 server:
   address: 0.0.0.0
   port: 8080
